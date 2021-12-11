@@ -1,2 +1,5 @@
-# hello-argocd
-Hello, Argo CD!
+# Hello, Argo CD!
+
+```sh
+kubectl apply -f application.yaml
+```
